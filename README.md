@@ -1,6 +1,9 @@
 # API Spring Boot
 
-Este projeto é uma API REST desenvolvida com Spring Boot, utilizando MySQL como banco de dados. A aplicação está pronta para ser executada localmente utilizando o VS Code.
+Este projeto é uma **API RESTful desenvolvida com Spring Boot**, com o objetivo de demonstrar na prática os conceitos de desenvolvimento web back-end utilizando Java. Ele foi criado para fins didáticos e pode ser usado como base para aplicações que necessitam de um CRUD completo (Create, Read, Update, Delete), persistência de dados com MySQL, e uma arquitetura organizada com boas práticas.
+
+A API gerencia recursos de "Produtos", permitindo operações como cadastro, consulta, atualização e exclusão. O código está estruturado para facilitar a compreensão por estudantes ou desenvolvedores iniciantes em Spring Boot.
+
 
 ## ✅ Requisitos
 
